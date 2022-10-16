@@ -1,3 +1,12 @@
+
+
+
+
+![Jamilla the Coder _ Syd and Friends](https://user-images.githubusercontent.com/108694957/196054249-fc8cfc0a-7337-4d01-b0c7-6d9c54e90772.jpeg)
+
+
+
+
 ### 👋 Hi there, I am Onome Mafuru
 
 - 🔭 I’m a wife and mother.
