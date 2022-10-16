@@ -3,7 +3,7 @@
 - 🔭 I’m a wife and mother.
 - 🌱 I’m currently learning software engineering at ALX.
 - 👯 I’m looking to collaborate on anything frontend related
-- 📫 How to reach me: Omafuru(https://omafuru.github.io)
+- 📫 How to reach me: [Omafuru](https://omafuru.github.io)
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: ...
 
