@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on anything frontend related
 - 📫 How to reach me: [Omafuru](https://omafuru.github.io)
 - 😄 Pronouns: She/her.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I love to code
 
 <img align="left"  width="48%" src="https://github-readme-stats.vercel.app/api?username=Omafuru&show_icons=true&theme=radical" />
 <img align="left"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omafuru&layout=compact" />
