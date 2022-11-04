@@ -10,7 +10,9 @@
 
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=Omafuru&show_icons=true&theme=radical" />
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omafuru&layout=compact&show_icons=true&theme=radical" />
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Omafuru&theme=radical)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=Omafuru)
 
 ## Languages and Tools:
