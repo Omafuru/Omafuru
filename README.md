@@ -1,13 +1,10 @@
-
-
-
-
 ![Jamilla the Coder _ Syd and Friends](https://user-images.githubusercontent.com/108694957/196054249-fc8cfc0a-7337-4d01-b0c7-6d9c54e90772.jpeg)
 
 
 
 
-### 👋 Hi there, I am Onome Mafuru
+### 👋 Hi there, I am Onome Mafuru 👩🏾‍💻
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2000&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="27" />+Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+Onome+Mafuru+👩🏾‍💻" alt="Typing SVG" /></a> </p>
 
 - 🔭 I’m a wife and mother.
 - 🌱 I’m currently learning software engineering at ALX.
