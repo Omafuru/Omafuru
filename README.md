@@ -1,7 +1,6 @@
 ![Jamilla the Coder _ Syd and Friends (1)](https://user-images.githubusercontent.com/108694957/199949744-14d0db97-0225-4184-bd35-02ffbd5a0986.jpeg)
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2000&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+👋🏾;Welcome+to+my+GitHub+profile!+💃🏿;I'm+Onome+Mafuru+👩🏾‍💻" alt="Typing SVG" /></a> </p>
 
-<!--<div class="tenor-gif-embed" data-postid="13483453" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/arimoji-hello-waving-wink-arianna-grande-moji-gif-13483453">Arimoji Hello Sticker</a>from <a href="https://tenor.com/search/arimoji-stickers">Arimoji Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>-->
 - 🔭 I’m a wife and mother.
 - 🌱 I’m currently learning software engineering at ALX.
 - 👯 I’m looking to collaborate on anything frontend related
