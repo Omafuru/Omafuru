@@ -1,5 +1,5 @@
-![Jamilla the Coder _ Syd and Friends](https://user-images.githubusercontent.com/108694957/196054249-fc8cfc0a-7337-4d01-b0c7-6d9c54e90772.jpeg)
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2000&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+Onome+Mafuru+👩🏾‍💻." alt="Typing SVG" /></a> </p>
+![Jamilla the Coder _ Syd and Friends (1)](https://user-images.githubusercontent.com/108694957/199949744-14d0db97-0225-4184-bd35-02ffbd5a0986.jpeg)
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2000&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+Onome+Mafuru+👩🏾‍💻" alt="Typing SVG" /></a> </p>
 
 
 - 🔭 I’m a wife and mother.
@@ -9,8 +9,12 @@
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: ... I love to code
 
-<img align="left"  width="48%" src="https://github-readme-stats.vercel.app/api?username=Omafuru&show_icons=true&theme=radical" />
-<img align="left"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omafuru&layout=compact" />
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=Omafuru&show_icons=true&theme=radical" />
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omafuru&layout=compact" />
+
+![](https://komarev.com/ghpvc/?username=Omafuru)
+
+
 
 ## Languages and Tools:
 
